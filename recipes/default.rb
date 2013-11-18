@@ -16,8 +16,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-
-#Install MSMQ server
-windows_feature "MSMQ-Server" do
-   action :install
+# Install MSMQ server
+windows_feature 'MSMQ-Server' do
+  action :install
 end
