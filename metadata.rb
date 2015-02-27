@@ -1,6 +1,6 @@
 name              'ms_messagequeue'
 maintainer        'Tim Smith'
-maintainer_email  'tsmith@llnw.com'
+maintainer_email  'tim@cozy.co'
 license           'Apache 2.0'
 license           'All rights reserved'
 description       'Installs Microsoft Message Queueing Service'
